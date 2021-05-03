@@ -1,1 +1,6 @@
 data/cleaned_data.csv
+ml.ipynb
+train_xg_boost.ipynb
+Untitled.ipynb
+.ipynb_checkpoints
+.vscode
